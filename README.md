@@ -6,9 +6,9 @@ Plain HTML and CSS. GitHub Pages publishes the `main` branch from the repository
 
 ## Updating
 
-- Edit `index.html` for profile, news, publications and contact information.
+- Edit `index.html` for profile, news, publications, teaching and contact information.
 - Edit `style.css` for layout and appearance.
-- The page is fully static and has no JavaScript dependency. Publications use a compact bibliography list, matching the requested reference.
+- The page is fully static and has no JavaScript dependency. Publications use a compact bibliography list; each title stands apart, with the author list starting on the next line. Teaching follows the reference format and lists the owner's confirmed Applied Statistics, Spring 2025 assistantship.
 - Keep `.nojekyll` in the repository root.
 - Local avatar and icon attribution is recorded in `assets/THIRD-PARTY.md`.
 
