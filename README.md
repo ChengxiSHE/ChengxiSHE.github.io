@@ -10,6 +10,7 @@ Plain HTML and CSS. GitHub Pages publishes the `main` branch from the repository
 - Edit `style.css` for layout and appearance.
 - The page is fully static and has no JavaScript dependency. Publications use a compact bibliography list; each title stands apart, with the author list starting on the next line. Teaching follows the reference format and lists the owner's confirmed Applied Statistics, Spring 2025 assistantship.
 - Keep `.nojekyll` in the repository root.
+- Publications are grouped by primary research topic: LLM4OR/OuU (3 papers), Optimization under Uncertainty (1 paper), and Machine Learning (3 papers).
 - Local avatar and icon attribution is recorded in `assets/THIRD-PARTY.md`.
 
 ## Reference style

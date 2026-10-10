@@ -22,6 +22,7 @@ main { padding-top: 7.5px; min-width: 0; }
 main p { margin: 0 0 7.5px; }
 h1, h2 { font-family: "Trebuchet MS", Helvetica, sans-serif; font-weight: bold; line-height: 1.2; }
 h2 { font-size: 18px; margin: 18px 0 9px; }
+#publications h3 { font-size: 15px; font-weight: 700; line-height: 1.5; margin: 15px 0 7.5px; }
 main ul { padding-left: 30px; margin: 7.5px 0 15px; }
 main li { margin-bottom: 7.5px; }
 main a { text-decoration: underline; overflow-wrap: break-word; }
