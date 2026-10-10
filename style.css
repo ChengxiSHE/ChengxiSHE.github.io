@@ -56,7 +56,7 @@ strong { font-weight: 700; }
   .profile-links span { display: none; }
   main { padding-top: 0; }
 }
-@media (max-width: 650px) {
+@media (max-width: 800px) {
   .nav-inner .home-link, .nav-links .wide-link { display: none; }
   .nav-links a:first-child { margin-left: 0; }
   .mobile-menu { display: block; position: absolute; right: 7.5px; top: 7.5px; }
